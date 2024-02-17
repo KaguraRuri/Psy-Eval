@@ -2,7 +2,7 @@
 
 ## Overview
 
-PsyEval is a comprehensive benchmark designed to evaluate the performance of language models in the domain of mental health. This repository contains the necessary resources and documentation for understanding and replicating our experiments.
+PsyEval is a comprehensive task suite designed to evaluate the performance of language models in the domain of mental health. This repository contains the necessary resources and documentation for understanding and replicating our experiments.
 
 
 ## Dataset
