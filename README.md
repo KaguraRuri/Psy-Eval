@@ -1,4 +1,4 @@
-# PsyEval: PsyEval: A Comprehensive Large Language Model Evaluation Benchmark for Mental Health
+# PsyEval: A Suite of Mental Health Related Tasks for Evaluating Large Language Models
 
 ## Overview
 
